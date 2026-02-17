@@ -9,7 +9,7 @@
 
 A Streamlit app for searching open‑access literature across multiple sources, scoring relevance, and exporting results in Markdown and JSON with APA citations.
 
-**Demo:** [Literature Search Streamlit webappL]https://literature-search.streamlit.app/)
+**Demo:** https://literature-search.streamlit.app/
 
 ## Features
 - Query by topic and organism(s)
